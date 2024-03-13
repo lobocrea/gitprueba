@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  #sobre-mi p {
+    line-height: 1.5;
+  }
+  
+  #servicios ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #servicios ul li {
+    margin-bottom: 10px;
+  }
+  
+  #portafolio ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #portafolio ul li {
+    margin-bottom: 10px;
+  }
+  
+  #contacto p {
+    margin-bottom: 10px;
+  }
+  
+  #contacto ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #contacto ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
